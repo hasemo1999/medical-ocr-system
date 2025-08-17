@@ -1,0 +1,22 @@
+{
+  "timestamp": "2025-08-15 12:44:59",
+  "results": {
+    "IMG_7008.JPG": {
+      "status": "failed",
+      "reason": "all_methods_failed"
+    },
+    "IMG_7015.JPG": {
+      "status": "failed",
+      "reason": "all_methods_failed"
+    },
+    "IMG_7016.JPG": {
+      "status": "failed",
+      "reason": "all_methods_failed"
+    }
+  },
+  "summary": {
+    "success_count": 0,
+    "failed_count": 3,
+    "success_rate": 0.0
+  }
+}
