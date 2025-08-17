@@ -56,3 +56,7 @@
 - GitHub: https://github.com/hasemo1999/medical-ocr-system
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> docs-summary
