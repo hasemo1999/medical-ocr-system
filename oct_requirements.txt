@@ -1,0 +1,15 @@
+# OCT RNFL自動抽出ツール - 依存パッケージ
+
+# 基本画像処理
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# OCR
+pytesseract>=0.3.10
+
+# 既存依存関係（画像整理ツール）
+Pillow>=10.0.0
+pydicom>=2.4.0
+exifread>=3.0.0
+tqdm>=4.65.0
+pandas>=2.0.0
